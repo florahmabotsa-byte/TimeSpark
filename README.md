@@ -49,7 +49,7 @@ Allows the user to enter time of day
 ## Screenshots
 
 (Add screenshot of your app here)
-https://github.com/florahmabotsa-byte/DailySpark.git
+
 https://github.com/florahmabotsa-byte/DailySpark.githttps://github.com/florahmabotsa-byte/DailySpark.githttps://github.com/florahmabotsa-byte/DailySpark.git
 
 ## Author
